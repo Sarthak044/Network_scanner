@@ -12,7 +12,7 @@ from pyfiglet import Figlet
 
 #Banner<DO NOT TOUCH ELSE I WILL FIND YOU AND TICKLE YOU TO DEATH>
 fig = Figlet(font='greek')
-print(fig.renderText("ProGod404"))
+print(fig.renderText("ProGod04"))
 print("ENTER THE RANGE OF IP ADDRESS\n For Example: 192.168.0.255/24")
 def get_args():
     parser=argparse.ArgumentParser()
