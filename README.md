@@ -1,5 +1,7 @@
 # Network_scanner
 **ONLY FOR LINUX SYSTEMS**
+
+
 A very simple Network scanner 
 
 This is a very common yet basic script for discovering live IP's on your subnet
